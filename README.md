@@ -1,2 +1,4 @@
 # Django
-contains my django practice projects
+
+
+Django Project
